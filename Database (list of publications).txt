@@ -1,0 +1,100 @@
+|| StoreHouse || 
+Book
+Long Story About Nothing|456|12-756-17-894-564|polish|682|Fabric of Words
+4
+Authors: 
+Alex|Cook|124785643|14.05.1987
+Karol|Lee|579846318|19.12.1968
+Norman|Rivera|789456123|12.11.1966
+Christopher|Wilson|123456789|25.04.1978
+2
+Translators: 
+Marc|Foster|147258369|12.09.1987
+Colin|Jones|258147369|14.02.1965
+
+Amount: |260|pieces in the StoreHouse
+===========================
+
+Book
+coś|654|3737375|polish|350|Dominika Gilewska
+0
+Authors: 
+0
+Translators: 
+
+Amount: |55|pieces in the StoreHouse
+===========================
+
+News Paper
+My Warsaw|200|15-456-784-56-123|English|65|Metro|Weekly
+4
+Articles: 
+1. |Title: |Demonstration in the Central Park
+0
+Authors: 
+0
+Translators: 
+2. |Title: |Little, Big Problem
+1
+Authors: 
+Harry|Foster|987654321|19.12.1978
+0
+Translators: 
+3. |Title: | The Face of New Technologies
+3
+Authors: 
+Angeline|Caroll|156753456|14.04.1982
+Mike|Cooper|45678912|15.02.1977
+John|Hetfield|147258369|28.11.1988
+2
+Translators: 
+Frank|Hughes|546789459|14.05.1969
+Michel|Turner|789456321|11.02.1975
+4. |Title: |Consequences of Artificial Intelligence
+0
+Authors: 
+0
+Translators: 
+
+Amount: |42|pieces in the StoreHouse
+===========================
+
+CD
+Train of Thought|540|456-12-123-45-782|Dream Theater
+3
+List of Songs: 
+1. |Title: |As I Am
+Duration: |05:46
+0
+Composers: 
+0
+Performers: 
+2. |Title: |In the Name of Good
+Duration: |09:11
+0
+Composers: 
+0
+Performers: 
+3. |Title: |Strem of Consciousness
+Duration: |11:16
+2
+Composers: 
+Dream Theater|----|0|01.06.1998
+John|Petrucci|154968765|05.05.1978
+0
+Performers: 
+
+Amount: |609|pieces in the StoreHouse
+===========================
+
+Book
+Narreturm|200|1234-4564-779|German|390|Super New
+1
+Authors: 
+Mark|Holins|546579874|21.11.1968
+0
+Translators: 
+
+Amount: |256|pieces in the StoreHouse
+===========================
+
