@@ -1,4 +1,8 @@
-package store_house;
+package store_house.model;
+
+import store_house.abstraction.NPEnums;
+import store_house.abstraction.Publication;
+import store_house.abstraction.Validatable;
 
 import java.util.Collections;
 import java.util.ArrayList;

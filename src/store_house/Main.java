@@ -1,5 +1,7 @@
 package store_house;
 
+import store_house.services.Menu;
+
 import java.io.IOException;
 
 public class Main {

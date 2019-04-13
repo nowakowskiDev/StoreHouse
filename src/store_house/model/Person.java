@@ -1,4 +1,6 @@
-package store_house;
+package store_house.model;
+
+import store_house.abstraction.Validatable;
 
 import java.util.Objects;
 import java.util.regex.Matcher;

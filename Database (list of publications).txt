@@ -15,16 +15,6 @@ Colin|Jones|258147369|14.02.1965
 Amount: |260|pieces in the StoreHouse
 ===========================
 
-Book
-coś|654|3737375|polish|350|Dominika Gilewska
-0
-Authors: 
-0
-Translators: 
-
-Amount: |55|pieces in the StoreHouse
-===========================
-
 News Paper
 My Warsaw|200|15-456-784-56-123|English|65|Metro|Weekly
 4
@@ -57,6 +47,26 @@ Authors:
 Translators: 
 
 Amount: |42|pieces in the StoreHouse
+===========================
+
+Book
+coś|654|3737375|polish|350|Dominika Gilewska
+0
+Authors: 
+0
+Translators: 
+
+Amount: |55|pieces in the StoreHouse
+===========================
+
+Book
+The Witcher|500|1234590404|polish|350|Supernowa
+0
+Authors: 
+0
+Translators: 
+
+Amount: |40|pieces in the StoreHouse
 ===========================
 
 CD

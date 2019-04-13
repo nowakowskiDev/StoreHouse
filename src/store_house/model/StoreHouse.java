@@ -1,4 +1,6 @@
-package store_house;
+package store_house.model;
+
+import store_house.abstraction.Publication;
 
 import java.util.HashMap;
 import java.util.Map;

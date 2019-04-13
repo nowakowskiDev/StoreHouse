@@ -1,4 +1,6 @@
-package store_house;
+package store_house.abstraction;
+
+//import store_house
 
 public abstract class Publication {
     protected String name;
@@ -10,11 +12,13 @@ public abstract class Publication {
         price = 0;
         ISBN = "Number";
     }
+
     public Publication(Publication publication){
         this.name = new String(publication.name);
         this.price = publication.price;
         this.ISBN = new String(publication.ISBN);
     }
+
     public Publication(String name, int price, String ISBN){
         this.name = name;
         this.price = price;

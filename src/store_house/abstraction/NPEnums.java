@@ -1,4 +1,4 @@
-package store_house;
+package store_house.abstraction;
 
 public enum NPEnums {
     Type("Type"),

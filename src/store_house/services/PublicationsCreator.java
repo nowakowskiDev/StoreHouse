@@ -1,4 +1,9 @@
-package store_house;
+package store_house.services;
+
+import store_house.model.Book;
+import store_house.model.CD;
+import store_house.model.NewsPaper;
+import store_house.model.StoreHouse;
 
 import java.util.Scanner;
 

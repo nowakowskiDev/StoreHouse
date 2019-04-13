@@ -1,9 +1,20 @@
-package store_house;
+package store_house.services;
+
+import store_house.abstraction.Publication;
+import store_house.abstraction.Validatable;
+import store_house.model.Article;
+import store_house.model.Book;
+import store_house.model.CD;
+import store_house.model.NewsPaper;
+import store_house.model.Person;
+import store_house.model.Song;
+import store_house.model.StoreHouse;
 
 import java.io.*;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.Scanner;
+import java.util.HashMap;
+
 
 public class Menu {
 
